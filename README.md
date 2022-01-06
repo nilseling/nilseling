@@ -11,20 +11,20 @@ I also build R/Bioconductor packages and workflows to standardize bioimage and s
 
 | Package | Rank | Build |
 |:----------------:|:----------------:|:----------------:|
-| [_cytomapper_](https://github.com/BodenmillerGroup/cytomapper) | [![](http://www.bioconductor.org/shields/downloads/cytomapper.svg)](https://bioconductor.org/packages/stats/bioc/cytomapper/) |[![](http://bioconductor.org/shields/build/release/bioc/cytomapper.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/cytomapper) |
-| [_imcRtools_](https://github.com/BodenmillerGroup/imcRtools) | [![](http://www.bioconductor.org/shields/downloads/imcRtools.svg)](https://bioconductor.org/packages/stats/bioc/imcRtools/) |[![](http://bioconductor.org/shields/build/release/bioc/imcRtools.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/imcRtools) |
+| [_cytomapper_](https://github.com/BodenmillerGroup/cytomapper) | [![](https://www.bioconductor.org/shields/downloads/release/cytomapper.svg)](https://bioconductor.org/packages/stats/bioc/cytomapper/) |[![](http://bioconductor.org/shields/build/release/bioc/cytomapper.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/cytomapper) |
+| [_imcRtools_](https://github.com/BodenmillerGroup/imcRtools) | [![](https://www.bioconductor.org/shields/downloads/release/imcRtools.svg)](https://bioconductor.org/packages/stats/bioc/imcRtools/) |[![](http://bioconductor.org/shields/build/release/bioc/imcRtools.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/imcRtools) |
 
 ## Workflow maintainer
 
 | Workflow | Build | Website |
 |:----------------:|:----------------:|:----------------:|
 | [_IMCWorfklow_](https://github.com/BodenmillerGroup/IMCWorkflow) |  |[https://bodenmillergroup.github.io/IMCWorkflow/](https://bodenmillergroup.github.io/IMCWorkflow/) |
-| [_IMCDataAnalysis_](https://github.com/BodenmillerGroup/IMCDataAnalysis) | [[![build](https://github.com/BodenmillerGroup/IMCDataAnalysis/actions/workflows/build.yml/badge.svg)](https://github.com/BodenmillerGroup/IMCDataAnalysis/actions/workflows/build.yml) |[https://github.com/BodenmillerGroup/IMCDataAnalysis](https://github.com/BodenmillerGroup/IMCDataAnalysis) |
+| [_IMCDataAnalysis_](https://github.com/BodenmillerGroup/IMCDataAnalysis) | [![build](https://github.com/BodenmillerGroup/IMCDataAnalysis/actions/workflows/build.yml/badge.svg)](https://github.com/BodenmillerGroup/IMCDataAnalysis/actions/workflows/build.yml) |[https://github.com/BodenmillerGroup/IMCDataAnalysis](https://github.com/BodenmillerGroup/IMCDataAnalysis) |
 
 ## Analysis repositories
 
 | Repository | Year | 
-|:----------------:|:----------------:|:----------------:|
+|:----------------:|:----------------:|
 | [_cytomapper_publication_](https://github.com/BodenmillerGroup/cytomapper_publication) |  2020 |
 | [_GammaDeltaTcells2018_](https://github.com/MarioniLab/GammaDeltaTcells2018) | 2018 |
 | [_Spermatogenesis2018_](https://github.com/MarioniLab/Spermatogenesis2018) |  2018 |
