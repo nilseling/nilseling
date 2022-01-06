@@ -1,16 +1,37 @@
-### Hi there 👋
+My work focuses on single-cell, bioimage and spatial data analysis to understand immune-tumor interactions in various cancer types. 
+I also build R/Bioconductor packages and workflows to standardize bioimage and spatial data analysis.
 
-<!--
-**nilseling/nilseling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub statistics
 
-Here are some ideas to get you started:
+![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=nilseling&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=nilseling&show_icons=true&hide_border=true)
+
+## Package maintainer
+
+| Package | Rank | Build |
+|:----------------:|:----------------:|:----------------:|
+| [_cytomapper_](https://github.com/BodenmillerGroup/cytomapper) | [![](http://www.bioconductor.org/shields/downloads/cytomapper.svg)](https://bioconductor.org/packages/stats/bioc/cytomapper/) |[![](http://bioconductor.org/shields/build/release/bioc/cytomapper.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/cytomapper) |
+| [_imcRtools_](https://github.com/BodenmillerGroup/imcRtools) | [![](http://www.bioconductor.org/shields/downloads/imcRtools.svg)](https://bioconductor.org/packages/stats/bioc/imcRtools/) |[![](http://bioconductor.org/shields/build/release/bioc/imcRtools.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/imcRtools) |
+
+## Workflow maintainer
+
+| Workflow | Build | Website |
+|:----------------:|:----------------:|:----------------:|
+| [_IMCWorfklow_](https://github.com/BodenmillerGroup/IMCWorkflow) |  |[https://bodenmillergroup.github.io/IMCWorkflow/](https://bodenmillergroup.github.io/IMCWorkflow/) |
+| [_IMCDataAnalysis_](https://github.com/BodenmillerGroup/IMCDataAnalysis) | [[![build](https://github.com/BodenmillerGroup/IMCDataAnalysis/actions/workflows/build.yml/badge.svg)](https://github.com/BodenmillerGroup/IMCDataAnalysis/actions/workflows/build.yml) |[https://github.com/BodenmillerGroup/IMCDataAnalysis](https://github.com/BodenmillerGroup/IMCDataAnalysis) |
+
+## Analysis repositories
+
+| Repository | Year | 
+|:----------------:|:----------------:|:----------------:|
+| [_cytomapper_publication_](https://github.com/BodenmillerGroup/cytomapper_publication) |  2020 |
+| [_GammaDeltaTcells2018_](https://github.com/MarioniLab/GammaDeltaTcells2018) | 2018 |
+| [_Spermatogenesis2018_](https://github.com/MarioniLab/Spermatogenesis2018) |  2018 |
+| [_RegressionBASiCS2017_](https://github.com/MarioniLab/RegressionBASiCS2017) |  2017 |
+| [_ImmuneAging2017_](https://github.com/MarioniLab/ImmuneAging2017) | 2017 |
+| [_Platynereis2017_](https://github.com/MarioniLab/Platynereis2017) | 2017 |
+
+
+
+
