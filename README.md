@@ -16,7 +16,7 @@ I also build R/Bioconductor packages and workflows to standardize bioimage and s
 
 | Workflow | Build | Website |
 |:----------------:|:----------------:|:----------------:|
-| [_IMCWorfklow_](https://github.com/BodenmillerGroup/IMCWorkflow) |  |[https://bodenmillergroup.github.io/IMCWorkflow/](https://bodenmillergroup.github.io/IMCWorkflow/) |
+| [_IMCWorkflow_](https://github.com/BodenmillerGroup/IMCWorkflow) |  |[https://bodenmillergroup.github.io/IMCWorkflow/](https://bodenmillergroup.github.io/IMCWorkflow/) |
 | [_IMCDataAnalysis_](https://github.com/BodenmillerGroup/IMCDataAnalysis) | [![build](https://github.com/BodenmillerGroup/IMCDataAnalysis/actions/workflows/build.yml/badge.svg)](https://github.com/BodenmillerGroup/IMCDataAnalysis/actions/workflows/build.yml) |[https://github.com/BodenmillerGroup/IMCDataAnalysis](https://github.com/BodenmillerGroup/IMCDataAnalysis) |
 
 ## Analysis repositories
