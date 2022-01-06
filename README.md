@@ -12,6 +12,13 @@ I also build R/Bioconductor packages and workflows to standardize bioimage and s
 | [_cytomapper_](https://github.com/BodenmillerGroup/cytomapper) | [![](https://www.bioconductor.org/shields/downloads/release/cytomapper.svg)](https://bioconductor.org/packages/stats/bioc/cytomapper/) |[![](http://bioconductor.org/shields/build/release/bioc/cytomapper.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/cytomapper) |
 | [_imcRtools_](https://github.com/BodenmillerGroup/imcRtools) | [![](https://www.bioconductor.org/shields/downloads/release/imcRtools.svg)](https://bioconductor.org/packages/stats/bioc/imcRtools/) |[![](http://bioconductor.org/shields/build/release/bioc/imcRtools.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/imcRtools) |
 
+## Package contributor
+
+| Package | Rank | Build |
+|:----------------:|:----------------:|:----------------:|
+| [_BASiCS_](https://github.com/BodenmillerGroup/BASiCS) | [![](https://www.bioconductor.org/shields/downloads/release/BASiCS.svg)](https://bioconductor.org/packages/stats/bioc/BASiCS/) |[![](http://bioconductor.org/shields/build/release/bioc/BASiCS.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BASiCS) |
+| [_imcdatasets_](https://github.com/BodenmillerGroup/imcdatasets) | [![](https://www.bioconductor.org/shields/downloads/release/imcdatasets.svg)](https://bioconductor.org/packages/stats/bioc/imcdatasets/) |[![](http://bioconductor.org/shields/build/release/bioc/imcdatasets.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/imcdatasets) |
+
 ## Workflow maintainer
 
 | Workflow | Build | Website |
