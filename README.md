@@ -3,7 +3,7 @@ I also build R/Bioconductor packages and workflows to standardize bioimage and s
 
 ## GitHub statistics
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=nilseling&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=nilseling&show_icons=true&hide_border=true&count_private=true)
 
 ## Package maintainer
 
