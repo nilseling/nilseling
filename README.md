@@ -1,5 +1,5 @@
 My work focuses on single-cell, bioimage and spatial data analysis to understand immune-tumor interactions in various cancer types. 
-I also build R/Bioconductor packages and workflows to standardize bioimage and spatial data analysis.
+I also build R/Bioconductor packages and workflows to standardize bioimage and spatial data analysis. You can see my main contributions on the [BodenmillerGroup](https://github.com/BodenmillerGroup) organisation.
 
 ## GitHub statistics
 
